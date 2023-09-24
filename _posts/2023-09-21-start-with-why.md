@@ -30,7 +30,7 @@ Late in my second stint as a manager, and more so over the past year, I have bee
 
 ## 1.3 That's all very nice, but why write a blog?
 
-In order to learn more about engineering management, I recently subscribed to the Pragmatic Engineer newsletter by Gergely Orosz. The archives are full of incredible content, but one particular post that stood out was the one about how to become a better writer[<sup>2</sup>](#fn-1){:.fnref #fnref-1}.
+In order to learn more about engineering management, I recently subscribed to the Pragmatic Engineer newsletter by Gergely Orosz. The archives are full of incredible content, but one particular post that stood out was the one about how to become a better writer[<sup>1</sup>](#fn-1){:.fnref #fnref-1}.
 
 > With remote work and distributed teams becoming more common, strong writing skills are a baseline for most engineering leadership positions. In fact, writing is becoming so important that companies like Amazon start their engineering manager screening process with a writing exercise
 
@@ -50,10 +50,10 @@ Apologies to Dan Hon for stealing the format of his newsletter Things That Caugh
 
 * * *
 
-<sup>1</sup>{:#fn-1} [Becoming a Better Writer](https://newsletter.pragmaticengineer.com/p/becoming-a-better-writer), January 19, 2022, Gergely Orosz [↩](#fnref-2)
+<sup>1</sup>{:#fn-1} [Becoming a Better Writer](https://newsletter.pragmaticengineer.com/p/becoming-a-better-writer), January 19, 2022, Gergely Orosz [↩](#fnref-1)
 
 <sup>2</sup>{:#fn-2} [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/), October 27, 2007, Jeff Atwood [↩](#fnref-2)
 
-<sup>3</sup>{:#fn-4} [Learn in Public](https://www.swyx.io/learn-in-public), June 19, 2018, Shawn (swyx) Wang [↩](#fnref-3)
+<sup>3</sup>{:#fn-3} [Learn in Public](https://www.swyx.io/learn-in-public), June 19, 2018, Shawn (swyx) Wang [↩](#fnref-3)
 
 <sup>4</sup>{:#fn-4} [Things That Caught My Attention](https://newsletter.danhon.com/) [↩](#fnref-4)
