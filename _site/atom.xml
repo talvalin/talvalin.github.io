@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-24T18:05:01+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hacker-Blog</title><subtitle>A blog about engineering management from a non-engineering manager</subtitle><author><name>Talvalin</name><email>someone@somewebsite.somedomain</email></author><entry><title type="html">Start with Why</title><link href="http://localhost:4000/start-with-why" rel="alternate" type="text/html" title="Start with Why" /><published>2023-09-21T00:00:00+09:00</published><updated>2023-09-21T00:00:00+09:00</updated><id>http://localhost:4000/start-with-why</id><content type="html" xml:base="http://localhost:4000/start-with-why">&lt;h1 id=&quot;00-context-setting&quot;&gt;0.0 Context setting&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacker-Blog</title>
+    <description>A blog about engineering management from a non-engineering manager</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>Talvalin</name>
+      <email>someone@somewebsite.somedomain</email>
+      <uri>https://talvalin.github.io</uri>
+    </author>
+    
+      <item>
+        <title>Start with Why</title>
+        <description>&lt;h1 id=&quot;00-context-setting&quot;&gt;0.0 Context setting&lt;/h1&gt;
 &lt;p&gt;It’s late evening on Saturday, 23 September, 2023 in Tokyo, Japan, and I am spending an inordinate amount of time fiddling with how I want this blog to look, instead of focusing on the actual content. This is not the most auspicious start to a regular blogging habit, but I am hoping that once I get past this hurdle I can just write.&lt;/p&gt;
 
 &lt;p&gt;The weather is starting to finally cool down to the point where it is pleasant to stand outside in the evenings, compared to the humid heat of the long Japanese summer where it has stayed at around 30°C even at night. I am listening to Rush’s “Moving Pictures” on the recommendation of a friend, and wondering if I am the right frame of mind for this kind of music or if I should put some instrumental music on instead.&lt;/p&gt;
@@ -53,4 +68,13 @@
 
 &lt;p&gt;&lt;sup id=&quot;fn-4&quot;&gt;3&lt;/sup&gt; &lt;a href=&quot;https://www.swyx.io/learn-in-public&quot;&gt;Learn in Public&lt;/a&gt;, June 19, 2018, Shawn (swyx) Wang &lt;a href=&quot;#fnref-3&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;sup id=&quot;fn-4&quot;&gt;4&lt;/sup&gt; &lt;a href=&quot;https://newsletter.danhon.com/&quot;&gt;Things That Caught My Attention&lt;/a&gt; &lt;a href=&quot;#fnref-4&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;</content><author><name>Talvalin</name><email>someone@somewebsite.somedomain</email></author><summary type="html">0.0 Context setting It’s late evening on Saturday, 23 September, 2023 in Tokyo, Japan, and I am spending an inordinate amount of time fiddling with how I want this blog to look, instead of focusing on the actual content. This is not the most auspicious start to a regular blogging habit, but I am hoping that once I get past this hurdle I can just write.</summary></entry></feed>
+&lt;p&gt;&lt;sup id=&quot;fn-4&quot;&gt;4&lt;/sup&gt; &lt;a href=&quot;https://newsletter.danhon.com/&quot;&gt;Things That Caught My Attention&lt;/a&gt; &lt;a href=&quot;#fnref-4&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Sep 2023 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//start-with-why</link>
+        <link href="http://localhost:4000/start-with-why"/>
+        <guid isPermaLink="true">http://localhost:4000/start-with-why</guid>
+      </item>
+    
+  </channel>
+</rss>
