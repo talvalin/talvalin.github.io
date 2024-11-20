@@ -19,8 +19,17 @@ On a different note, having to add hyperlinks at the bottom of a blog post worke
 
 ## 1.1 Coaching
 
+This month, I had my first paid coaching session after a few free coaching trial calls (there is a phrase for these, "discovery sessions" perhaps?), and it was an interesting experience. Just talking through some challenges that I have been facing and having someone listen to me, absorb what I had said and then give their best attempt at contextualising all of that stream of consciousness brain fart (a bit like my first drafts!) and then summarising key points for me. 
+
+I would have felt better for it if I hadn't had a chat with a friend of mine who gave roughly the same advice for free, versus the coaching fee I had just paid for, but he knows me pretty well and we just talked about a very specific problem versus all of the other things that I brought.
+
+On that note, I've been working with Jen Dary and if you're close enough to the US East timezone without needing to do calls at 11pm like me, then I highly recommend her. She knows her shit and she can help you, I'm sure of it.
+
 ## 1.2 Evaluations
 
+We're drawing close to the end of the year and the start of our twice yearly evaluation period. This is common practice in Japan, and though it gives additional opportunities for promotion and pay increases compared to the West's standard system of a single evaluation round per year, it is a lot of work. 
+
+AWS decouples evaluations from promotions, such that evaluations (and bonuses) are done once a year, but promotions are done quarterly. Thus, if you're ready for promotion then you put together your business case and supporting evidence, then the review board will highlight any gaps or insufficient evidence for you to try again next quarter. Conversely, if you are not ready for promotion or don't care, then you can simply do nothing and that is fine. It's an interesting idea, but I wonder if it's something that could be implemented at a small start-up without significant implementation overhead.
 
 * * *
 
