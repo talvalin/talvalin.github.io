@@ -1,7 +1,7 @@
 
 ---
-title: Start with Why
-published: true
+title: Writing habits
+published: false
 ---
 
 # 0.0 Context setting
