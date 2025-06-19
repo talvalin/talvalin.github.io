@@ -1,4 +1,3 @@
-
 ---
 title: Writing habits
 published: true
